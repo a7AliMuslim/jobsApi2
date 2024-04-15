@@ -1,0 +1,50 @@
+Found directory: .\node_modules\configstore
+BSD 2-Clause License Copyright (c) Google All rights reserved. 
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****. 
+
+
+
+
+Found directory: .\node_modules\dotenv
+Copyright (c) 2015, Scott Motte All rights reserved. 
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****. 
+
+
+
+
+Found directory: .\node_modules\http-cache-semantics
+Copyright 2016-2018 Kornel Lesiński 
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****. 
+
+
+
+
+Found directory: .\node_modules\rc
+Copyright (c) 2013, Dominic Tarr All rights reserved. 
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****. The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the FreeBSD Project. 
+
+
+
+
+Found directory: .\node_modules\update-notifier
+Copyright Google 
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****
+****BSD 2-Clause****. 
+
+
+
+

@@ -1,0 +1,1928 @@
+Found directory: .\node_modules\@sindresorhus\is
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\@szmarczak\http-timer
+MIT License Copyright (c) 2018 Szymon Marczak 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\@types\bson
+ MIT License Copyright (c) Microsoft Corporation. 
+****MIT****
+****MIT****
+****MIT****
+****MIT**** 
+
+
+
+
+Found directory: .\node_modules\@types\mongodb
+ MIT License Copyright (c) Microsoft Corporation. 
+****MIT****
+****MIT****
+****MIT****
+****MIT**** 
+
+
+
+
+Found directory: .\node_modules\@types\node
+ MIT License Copyright (c) Microsoft Corporation. 
+****MIT****
+****MIT****
+****MIT****
+****MIT**** 
+
+
+
+
+Found directory: .\node_modules\abbrev
+This software is dual-licensed under the ISC and MIT licenses. You may use this software under EITHER of the following licenses. ---------- The ISC License Copyright (c) Isaac Z. Schlueter and Contributors Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. ---------- Copyright Isaac Z. Schlueter and Contributors All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\accepts
+(The MIT License) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-align\node_modules\ansi-regex
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-align\node_modules\emoji-regex
+Copyright Mathias Bynens <https://mathiasbynens.be/> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-align\node_modules\is-fullwidth-code-point
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-align\node_modules\string-width
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-align\node_modules\strip-ansi
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-regex
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ansi-styles
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\argparse
+(The MIT License) Copyright (C) 2012 by Vitaly Puzrin 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\array-flatten
+The MIT License (MIT) Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\balanced-match
+(MIT) Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt; 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\bcryptjs
+bcrypt.js --------- Copyright (c) 2012 Nevins Bartolomeo <nevins.bartolomeo@gmail.com> Copyright (c) 2012 Shane Girish <shaneGirish@gmail.com> Copyright (c) 2014 Daniel Wirtz <dcode@dcode.io> Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The name of the author may not be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. isaac.js -------- Copyright (c) 2012 Yves-Marie K. Rinquin 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\binary-extensions
+MIT License Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com), Paul Miller (https://paulmillr.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\bl
+The MIT License (MIT) ===================== Copyright (c) 2013-2018 bl contributors ---------------------------------- *bl contributors listed at <https://github.com/rvagg/bl#contributors>* 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\bluebird
+The MIT License (MIT) Copyright (c) 2013-2017 Petka Antonov 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\body-parser
+(The MIT License) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\boxen
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\brace-expansion
+MIT License Copyright (c) 2013 Julian Gruber <julian@juliangruber.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\braces
+The MIT License (MIT) Copyright (c) 2014-2018, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\bytes
+(The MIT License) Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2015 Jed Watson <jed.watson@me.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cacheable-request
+MIT License Copyright (c) 2017 Luke Childs 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cacheable-request\node_modules\get-stream
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cacheable-request\node_modules\lowercase-keys
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\camelcase
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\chalk
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\chalk\node_modules\has-flag
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\chalk\node_modules\supports-color
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\chokidar
+The MIT License (MIT) Copyright (c) 2012-2019 Paul Miller (https://paulmillr.com), Elan Shanker 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ci-info
+The MIT License (MIT) Copyright (c) 2016-2018 Thomas Watson Steen 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cli-boxes
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\clone-response
+MIT License Copyright (c) 2017 Luke Childs 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\color-convert
+Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\color-name
+The MIT License (MIT) Copyright (c) 2015 Dmitry Ivanov 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.
+
+
+
+
+Found directory: .\node_modules\concat-map
+This software is released under the MIT license: 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\content-disposition
+(The MIT License) Copyright (c) 2014-2017 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\content-type
+(The MIT License) Copyright (c) 2015 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cookie
+(The MIT License) Copyright (c) 2012-2014 Roman Shtylman <shtylman@gmail.com> Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\core-util-is
+Copyright Node.js contributors. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\cors
+(The MIT License) Copyright (c) 2013 Troy Goode <troygoode@gmail.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\crypto-random-string
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\debug
+(The MIT License) Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\decompress-response
+`The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\deep-extend
+The MIT License (MIT) Copyright (c) 2013-2018, Viacheslav Lotsmanov 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\defer-to-connect
+MIT License Copyright (c) 2018 Szymon Marczak 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\depd
+(The MIT License) Copyright (c) 2014-2017 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\destroy
+ The MIT License (MIT) Copyright (c) 2014 Jonathan Ong me@jongleberry.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\dot-prop
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ee-first
+ The MIT License (MIT) Copyright (c) 2014 Jonathan Ong me@jongleberry.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\emoji-regex
+Copyright Mathias Bynens <https://mathiasbynens.be/> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\encodeurl
+(The MIT License) Copyright (c) 2016 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\end-of-stream
+The MIT License (MIT) Copyright (c) 2014 Mathias Buus 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.
+
+
+
+
+Found directory: .\node_modules\escape-goat
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\escape-html
+(The MIT License) Copyright (c) 2012-2013 TJ Holowaychuk Copyright (c) 2015 Andreas Lubbe Copyright (c) 2015 Tiancheng "Timothy" Gu 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\etag
+(The MIT License) Copyright (c) 2014-2016 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\express
+(The MIT License) Copyright (c) 2009-2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2013-2014 Roman Shtylman <shtylman+expressjs@gmail.com> Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\express-rate-limit
+Copyright 2020 Nathan Friedly 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\fill-range
+The MIT License (MIT) Copyright (c) 2014-present, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\finalhandler
+(The MIT License) Copyright (c) 2014-2017 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\forwarded
+(The MIT License) Copyright (c) 2014-2017 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\fresh
+(The MIT License) Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2016-2017 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\fs.realpath
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. ---- This library bundles a version of the `fs.realpath` and `fs.realpathSync` methods from Node.js v0.10 under the terms of the Node.js MIT license. Node's license follows, also included at the header of `old.js` which contains the licensed code: Copyright Joyent, Inc. and other Node contributors. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\get-stream
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\global-dirs
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\got
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\has-flag
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\has-yarn
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\helmet
+The MIT License Copyright (c) 2012-2021 Evan Hahn, Adam Baldwin 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\http-errors
+ The MIT License (MIT) Copyright (c) 2014 Jonathan Ong me@jongleberry.com Copyright (c) 2016 Douglas Christopher Wilson doug@somethingdoug.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\http-status-codes
+The MIT License (MIT) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\iconv-lite
+Copyright (c) 2011 Alexander Shtuchkin 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\import-lazy
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ipaddr.js
+Copyright (C) 2011-2017 whitequark <whitequark@whitequark.org> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-binary-path
+MIT License Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com), Paul Miller (https://paulmillr.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-ci
+The MIT License (MIT) Copyright (c) 2016-2018 Thomas Watson Steen 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-extglob
+The MIT License (MIT) Copyright (c) 2014-2016, Jon Schlinkert 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-fullwidth-code-point
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-glob
+The MIT License (MIT) Copyright (c) 2014-2017, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-installed-globally
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-npm
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-number
+The MIT License (MIT) Copyright (c) 2014-present, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-obj
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-path-inside
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-typedarray
+This software is released under the MIT license: 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\is-yarn-global
+MIT License Copyright (c) 2018 LitoMore 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\json-buffer
+Copyright (c) 2013 Dominic Tarr 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\jsonwebtoken
+The MIT License (MIT) Copyright (c) 2015 Auth0, Inc. <support@auth0.com> (http://auth0.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\jsonwebtoken\node_modules\ms
+The MIT License (MIT) Copyright (c) 2020 Vercel, Inc. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\jwa
+Copyright (c) 2013 Brian J. Brennan 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\jws
+Copyright (c) 2013 Brian J. Brennan 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\keyv
+MIT License Copyright (c) 2017 Luke Childs 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\latest-version
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\lodash.includes
+Copyright jQuery Foundation and other contributors <https://jquery.org/> Based on Underscore.js, copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at https://github.com/lodash/lodash The following license applies to all parts of this software except as documented below: ==== 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. ==== Copyright and related rights for sample code are waived via CC0. Sample code is defined as all source code displayed within the prose of the documentation. CC0: http://creativecommons.org/publicdomain/zero/1.0/ ==== Files located in the node_modules and vendor directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above. 
+
+
+
+
+Found directory: .\node_modules\lodash.isboolean
+Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/> Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\lodash.isinteger
+Copyright jQuery Foundation and other contributors <https://jquery.org/> Based on Underscore.js, copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at https://github.com/lodash/lodash The following license applies to all parts of this software except as documented below: ==== 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. ==== Copyright and related rights for sample code are waived via CC0. Sample code is defined as all source code displayed within the prose of the documentation. CC0: http://creativecommons.org/publicdomain/zero/1.0/ ==== Files located in the node_modules and vendor directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above. 
+
+
+
+
+Found directory: .\node_modules\lodash.isnumber
+Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/> Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\lodash.isplainobject
+Copyright jQuery Foundation and other contributors <https://jquery.org/> Based on Underscore.js, copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at https://github.com/lodash/lodash The following license applies to all parts of this software except as documented below: ==== 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. ==== Copyright and related rights for sample code are waived via CC0. Sample code is defined as all source code displayed within the prose of the documentation. CC0: http://creativecommons.org/publicdomain/zero/1.0/ ==== Files located in the node_modules and vendor directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above. 
+
+
+
+
+Found directory: .\node_modules\lodash.isstring
+Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/> Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\lodash.once
+Copyright jQuery Foundation and other contributors <https://jquery.org/> Based on Underscore.js, copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/> This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at https://github.com/lodash/lodash The following license applies to all parts of this software except as documented below: ==== 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. ==== Copyright and related rights for sample code are waived via CC0. Sample code is defined as all source code displayed within the prose of the documentation. CC0: http://creativecommons.org/publicdomain/zero/1.0/ ==== Files located in the node_modules and vendor directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above. 
+
+
+
+
+Found directory: .\node_modules\lowercase-keys
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\make-dir
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\media-typer
+(The MIT License) Copyright (c) 2014 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\memory-pager
+The MIT License (MIT) Copyright (c) 2017 Mathias Buus 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\merge-descriptors
+(The MIT License) Copyright (c) 2013 Jonathan Ong <me@jongleberry.com> Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\methods
+(The MIT License) Copyright (c) 2013-2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mime
+The MIT License (MIT) Copyright (c) 2010 Benjamin Thomas, Robert Kieffer 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mime-db
+ The MIT License (MIT) Copyright (c) 2014 Jonathan Ong me@jongleberry.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mime-types
+(The MIT License) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mimic-response
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\minimist
+This software is released under the MIT license: 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mongoose
+# MIT License Copyright (c) 2010-2013 LearnBoost <dev@learnboost.com> Copyright (c) 2013-2021 Automattic 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mongoose\node_modules\ms
+The MIT License (MIT) Copyright (c) 2016 Zeit, Inc. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mongoose\node_modules\safe-buffer
+The MIT License (MIT) Copyright (c) Feross Aboukhadijeh 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mpath
+(The MIT License) Copyright (c) 2012 [Aaron Heckmann](aaron.heckmann+github@gmail.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mquery
+(The MIT License) Copyright (c) 2012 [Aaron Heckmann](aaron.heckmann+github@gmail.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\mquery\node_modules\debug
+(The MIT License) Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\ms
+The MIT License (MIT) Copyright (c) 2016 Zeit, Inc. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\negotiator
+(The MIT License) Copyright (c) 2012-2014 Federico Romero Copyright (c) 2012-2014 Isaac Z. Schlueter Copyright (c) 2014-2015 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\nodemon
+MIT License Copyright (c) 2010 - present, Remy Sharp, https://remysharp.com <remy@remysharp.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\nodemon\node_modules\debug
+(The MIT License) Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\nodemon\node_modules\ms
+The MIT License (MIT) Copyright (c) 2020 Vercel, Inc. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\nopt
+Copyright 2009, 2010, 2011 Isaac Z. Schlueter. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\normalize-path
+The MIT License (MIT) Copyright (c) 2014-2018, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\normalize-url
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\object-assign
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\on-finished
+(The MIT License) Copyright (c) 2013 Jonathan Ong <me@jongleberry.com> Copyright (c) 2014 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\p-cancelable
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\package-json
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\parseurl
+ (The MIT License) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2014-2017 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\path-is-absolute
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\path-to-regexp
+The MIT License (MIT) Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\picomatch
+The MIT License (MIT) Copyright (c) 2017-present, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\prepend-http
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\process-nextick-args
+# Copyright (c) 2015 Calvin Metcalf 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.** 
+
+
+
+
+Found directory: .\node_modules\proxy-addr
+(The MIT License) Copyright (c) 2014-2016 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\pstree.remy
+The MIT License (MIT) Copyright © 2019 Remy Sharp, https://remysharp.com <remy@remysharp.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\pump
+The MIT License (MIT) Copyright (c) 2014 Mathias Buus 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.
+
+
+
+
+Found directory: .\node_modules\pupa
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\range-parser
+(The MIT License) Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\raw-body
+The MIT License (MIT) Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\rc
+The MIT License Copyright (c) 2011 Dominic Tarr 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\readable-stream
+Node.js is licensed for use as follows: """ Copyright Node.js contributors. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. """ This license applies to parts of Node.js originating from the https://github.com/joyent/node repository: """ Copyright Joyent, Inc. and other Node contributors. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. """ 
+
+
+
+
+Found directory: .\node_modules\readdirp
+MIT License Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\regexp-clone
+(The MIT License) Copyright (c) 2013 [Aaron Heckmann](aaron.heckmann+github@gmail.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\registry-auth-token
+The MIT License (MIT) Copyright (c) 2016 Espen Hovlandsdal 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\registry-url
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\responselike
+Copyright (c) 2017 Luke Childs 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\rethinkdb\node_modules\bluebird
+The MIT License (MIT) Copyright (c) 2013-2015 Petka Antonov 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\rethinkdbdash
+Copyright (c) 2013-2014 Michel Tu <orphee@gmail.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\safe-buffer
+The MIT License (MIT) Copyright (c) Feross Aboukhadijeh 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\safer-buffer
+MIT License Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\saslprep
+Copyright (c) 2014 Dmitry Tsvettsikh 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.
+
+
+
+
+Found directory: .\node_modules\semver-diff
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\send
+(The MIT License) Copyright (c) 2012 TJ Holowaychuk Copyright (c) 2014-2016 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\send\node_modules\ms
+The MIT License (MIT) Copyright (c) 2016 Zeit, Inc. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\serve-static
+(The MIT License) Copyright (c) 2010 Sencha Inc. Copyright (c) 2011 LearnBoost Copyright (c) 2011 TJ Holowaychuk Copyright (c) 2014-2016 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\sift
+Copyright (c) 2015 Craig Condon 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\sliced
+(The MIT License) Copyright (c) 2012 [Aaron Heckmann](aaron.heckmann+github@gmail.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\sparse-bitfield
+The MIT License (MIT) Copyright (c) 2016 Mathias Buus 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\statuses
+ The MIT License (MIT) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\string-width
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\string_decoder
+Node.js is licensed for use as follows: """ Copyright Node.js contributors. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. """ This license applies to parts of Node.js originating from the https://github.com/joyent/node repository: """ Copyright Joyent, Inc. and other Node contributors. All rights reserved. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. """ 
+
+
+
+
+Found directory: .\node_modules\strip-ansi
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\strip-json-comments
+The MIT License (MIT) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\supports-color
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\swagger-ui-express
+ The MIT License (MIT) Copyright (c) 2018 Scott IT London 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\term-size
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\thinky
+License ======= Copyright (c) 2013-2015 Michel Tu orphee@gmail.com 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\thinky\node_modules\bluebird
+The MIT License (MIT) Copyright (c) 2013-2015 Petka Antonov 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\to-readable-stream
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\to-regex-range
+The MIT License (MIT) Copyright (c) 2015-present, Jon Schlinkert. 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\toidentifier
+MIT License Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\type-fest
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\type-is
+(The MIT License) Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\typedarray-to-buffer
+The MIT License (MIT) Copyright (c) Feross Aboukhadijeh 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\undefsafe
+The MIT License (MIT) Copyright © 2016 Remy Sharp, http://remysharp.com <remy@remysharp.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\unique-string
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\unpipe
+(The MIT License) Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\url-parse-lax
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\util-deprecate
+(The MIT License) Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\utils-merge
+The MIT License (MIT) Copyright (c) 2013-2017 Jared Hanson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\validator
+Copyright (c) 2015 Chris O'Hara <cohara87@gmail.com> 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\vary
+(The MIT License) Copyright (c) 2014-2017 Douglas Christopher Wilson 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\widest-line
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\xdg-basedir
+MIT License Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+
+Found directory: .\node_modules\yamljs
+Copyright (c) 2010 Jeremy Faivre 
+****MIT****
+****MIT****
+****MIT****
+****MIT****.
+
+
+
+
+Found directory: .\node_modules\yamljs\test\lib\jasmine-2.0.0
+Copyright (c) 2008-2011 Pivotal Labs 
+****MIT****
+****MIT****
+****MIT****
+****MIT****. 
+
+
+
+

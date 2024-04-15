@@ -1,0 +1,200 @@
+Found directory: .\node_modules\ansi-align
+Copyright (c) 2016, Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\anymatch
+The ISC License Copyright (c) 2019 Elan Shanker, Paul Miller (https://paulmillr.com) 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\glob
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. ## Glob Logo Glob's logo created by Tanya Brassie <http://tanyabrassie.com/>, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License https://creativecommons.org/licenses/by-sa/4.0/ 
+
+
+
+
+Found directory: .\node_modules\glob-parent
+The ISC License Copyright (c) 2015, 2019 Elan Shanker 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\graceful-fs
+The ISC License Copyright (c) Isaac Z. Schlueter, Ben Noordhuis, and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\ignore-by-default
+ISC License (ISC) Copyright (c) 2016, Mark Wubben 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\inflight
+The ISC License Copyright (c) Isaac Z. Schlueter 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\inherits
+The ISC License Copyright (c) Isaac Z. Schlueter 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\ini
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\make-dir\node_modules\semver
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\minimatch
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\once
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\package-json\node_modules\semver
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\semver
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\semver-diff\node_modules\semver
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\setprototypeof
+Copyright (c) 2015, Wes Todd 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\signal-exit
+The ISC License Copyright (c) 2015, Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\touch
+The ISC License Copyright (c) Isaac Z. Schlueter 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\wrappy
+The ISC License Copyright (c) Isaac Z. Schlueter and Contributors 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
+Found directory: .\node_modules\write-file-atomic
+Copyright (c) 2015, Rebecca Turner 
+****ISC****
+****ISC****
+****ISC****
+****ISC****. 
+
+
+
+
